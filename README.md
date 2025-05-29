@@ -15,15 +15,6 @@
 - 📚 A educação é a melhor provisão para a viagem da vida.
 - 📓 Estutande de **Analise de desenvolvimento de sistemas** na **Estacio**
 
-
-<div>
-  <h3 align="left">📱Minhas redes</h3>
-  <a href="https://www.linkedin.com/in/felipe-souza-ferreira-da-costa-7a16b2243/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "fscfsocial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-souza-ferreira-da-costa-7a16b2243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
 ---
 
 ## 💼 Tecnologias & Ferramentas
@@ -42,7 +33,20 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
+<div>
+  <h3 align="left">📱 Contatos</h3>
+<a href="mailto:fscfsocial@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+</a>
+  <a href="https://www.linkedin.com/in/felipe-souza-ferreira-da-costa-7a16b2243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RayGovaski/RayGovaski/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RayGovaski/RayGovaski/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RayGovaski/RayGovaski/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--
 https://devicon.dev
