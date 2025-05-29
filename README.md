@@ -1,9 +1,10 @@
 ## Olá :) Eu sou o Felipe👋
-<p><img align="right" alt="" height="230px" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"></p>
-
+<p align="center">
+  <img alt="" height="230px" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" />
+</p>
 <div>
-  <img width="460em" src="https://github-readme-stats.vercel.app/api?username=felopas&show_icons=true&theme=gruvbox&hide_title=true&count_private=true&border_radius=5&border_color=9B59B6&icon_color=9B59B6&title_color=9B59B6&text_color=CFCFCF" alt="GitHub Stats">
-  <img width="400em" size="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felopas&layout=compact&langs_count=6&theme=gruvbox&border_radius=5&border_color=9B59B6&title_color=9B59B6&text_color=CFCFCF" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=felopas&show_icons=true&theme=gruvbox&hide_title=true&count_private=true&border_radius=5&border_color=9B59B6&icon_color=9B59B6&title_color=9B59B6&text_color=CFCFCF" alt="GitHub Stats">
+  <img size="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felopas&layout=compact&langs_count=6&theme=gruvbox&border_radius=5&border_color=9B59B6&title_color=9B59B6&text_color=CFCFCF" alt="Top Langs">
 </div>
 
 
