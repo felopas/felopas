@@ -20,6 +20,9 @@
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="html5 logo" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="css3 logo" />
   <img src="https://img.shields.io/badge/Java-%23B07219?style=for-the-badge&logo=java&logoColor=white" height="30" alt="java logo" />
+  <img src="https://img.shields.io/badge/typescript-#3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="typescript Logo" />
+  <img src="https://img.shields.io/badge/typescript-#3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="typescript" />
+  <img src="https://img.shields.io/badge/typescript-#3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="typescript Logo" />
 </div>
 
 ### ⚙️ Ferramentas
