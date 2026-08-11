@@ -7,7 +7,6 @@
 
 ## 👨‍💻 Sobre mim
 - 👀 Gosto de programar
-- 🌱 Atualmente, estou aprendendo **Java**.
 - 📚 A educação é a melhor provisão para a viagem da vida.
 - 📓 Estutande de **Analise de desenvolvimento de sistemas** na **Estacio**
 
